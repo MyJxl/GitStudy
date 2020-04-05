@@ -8,7 +8,7 @@ int main()
 	
 	printf("Yue Rice\n");
 
-	printf("shop 50%. \n");
+	printf("shop 100%. \n");
 	
 	return 0;
 }
