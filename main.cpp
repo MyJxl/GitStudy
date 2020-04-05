@@ -10,5 +10,7 @@ int main()
 
 	printf("Fix bug\n");
 
+	printf("shop 100%. \n");
+	
 	return 0;
 }
