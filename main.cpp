@@ -7,6 +7,8 @@ int main()
 	printf("Short Video\n");
 	
 	printf("Yue Rice\n");
+
+	printf("shop 50%. \n");
 	
 	return 0;
 }
