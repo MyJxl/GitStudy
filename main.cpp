@@ -6,5 +6,7 @@ int main()
 	
 	printf("Short Video\n");
 	
+	printf("Yue Rice\n");
+	
 	return 0;
 }
