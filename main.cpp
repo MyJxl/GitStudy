@@ -13,6 +13,8 @@ int main()
 	printf("shop 100%. \n");
 
 	printf("Add feature. \n");
+
+        printf("Origin add");
 	
 	return 0;
 }
