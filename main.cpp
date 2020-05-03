@@ -11,6 +11,8 @@ int main()
 	printf("Fix bug\n");
 
 	printf("shop 100%. \n");
+
+	printf("Add feature. \n");
 	
 	return 0;
 }
